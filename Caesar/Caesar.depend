@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1538130474 source:d:\users\artem\documents\codeblocks\caesar\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<cstdlib>
+	"head.h"
+
+1538426976 d:\users\artem\documents\codeblocks\caesar\head.h
+
+1538423787 source:d:\users\artem\documents\codeblocks\caesar\enc.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"head.h"
+
+1538423787 source:d:\users\artem\documents\codeblocks\caesar\dec.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	"head.h"
+
+1538160900 source:d:\users\artem\documents\codeblocks\caesar\chartable.cpp
+	<iostream>
+	<set>
+	<fstream>
+	<iterator>
+	<algorithm>
+	<iomanip>
+	<cstdlib>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541081189 source:d:\users\artem\documents\codeblocks\diffy\main.cpp
+	<cstdlib>
+	<iostream>
+	<math.h>
+
